@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Games Aggregator Backoffice**
 
-- 🌱 I’m currently learning **full stack development on mernstack**
+- 🌱 I’m currently learning **full stack development on MERN stack**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mikhail-zakharov-48463b1b9/**
 
