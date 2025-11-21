@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently working on **Games Aggregator Backoffice**
 
-- 🌱 I’m currently learning **full stack development on MERN stack**
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
